@@ -21,8 +21,8 @@
 
 ## 專案與影片連結
 
-- [GitHub Repository] [GitHub Repository](https://github.com/mitesoro1231/1151VIS-HW2-410262690-YushuanChen)
-- [YouTube 操作影片]([https://youtu.be/qY8dDYTXIns)]
+- [GitHub Repository](https://github.com/mitesoro1231/1151VIS-HW2-410262690-YushuanChen)
+- [YouTube 操作影片](https://youtu.be/qY8dDYTXIns)
 
 
 ## 製作流程
